@@ -69,4 +69,3 @@ GA_TSP_MATLAB/
 ## Notes
 
 - Internal variable and function names are in Bosnian (the language the project was originally written in); this README documents the project in English for portfolio/GitHub purposes.
-- The random seed for delivery-point generation is fixed (`rng(1)`) for reproducibility, while the GA's stochastic operators (selection, crossover, mutation) use a shuffled seed (`rng('shuffle')`) so each run explores different solutions.
