@@ -26,10 +26,10 @@ All parameters are configurable in the code.
 
 | Parameter | Value |
 |---|---|
-| Population size | 50 |
+| Population size | 100 |
 | Generations | 100 |
-| Crossover probability | 0.8 |
-| Mutation probability | 0.1 |
+| Crossover probability | 0.9 |
+| Mutation probability | 0.15 |
 | Tournament size | 5 |
 | Independent runs | 3 |
 
@@ -55,7 +55,7 @@ Running the function will generate the delivery points (seeded for reproducibili
 
 ## Results
 
-Example output figures are saved in the [`results/`](./results) folder.
+
 
 ## Project Structure
 
