@@ -55,7 +55,7 @@ Running the function will generate the delivery points (seeded for reproducibili
 
 ## Results
 
-
+![GA TSP result](./results/1.1.jpg)
 
 ## Project Structure
 
